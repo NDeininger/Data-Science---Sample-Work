@@ -65,14 +65,14 @@ def datasetOne(title):
 
 
 # Accesses the Spotify API using spotipy library and stores the response in a CSV file. Requires 'pip install spotipy' to use!
-# Client ID: ae7659b66e9b444f9a9f6cfccdf01862
-# Client Secret: f29c6dda6e234798b0a97f4ca05f9020
-# Artist ID: 0gxyHStUsqpMadRV0Di1Qt
+# Client ID: X
+# Client Secret:X
+# Artist ID: X
 def datasetTwo():
 
-    client_id = 'ae7659b66e9b444f9a9f6cfccdf01862'
-    client_secret = 'f29c6dda6e234798b0a97f4ca05f9020'
-    artist_id = '0gxyHStUsqpMadRV0Di1Qt'
+    client_id = 'X'
+    client_secret = 'X'
+    artist_id = 'X'
 
     # Initialize Spotify client credentials manager
     client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
