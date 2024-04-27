@@ -1,0 +1,1 @@
+This file contains sample data science coursework that was completed as part of my course work at Northern Kentucky University. 
